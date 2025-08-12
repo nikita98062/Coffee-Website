@@ -2,8 +2,6 @@
 
 🌐 **Live Demo:** [Visit Coffee Website](http://127.0.0.1:5500/coffee/index.html)
 
-# ☕️ Coffee Website
-
 > A modern, interactive, and beautiful coffee shop website to make your brand stand out! 🚀
 
 ---
